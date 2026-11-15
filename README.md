@@ -7,7 +7,7 @@ Modelamos a malha aérea doméstica como um grafo (aeroportos = vértices, rotas
 realizados = arestas) e perguntamos: **quais aeroportos são essenciais para a conectividade?**
 Isto é, o que acontece com a rede se um aeroporto parar.
 
-Integrantes: _(preencher)_
+Integrantes: Daniel Moreira Grisolia, Gabriel Ché Silva, Henrique Gonzaga Apratto Gonçalves e Pedro Henrique de Oliveira Viana
 
 ## Estrutura
 
